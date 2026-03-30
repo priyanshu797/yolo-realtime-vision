@@ -1,0 +1,10 @@
+# Core dependencies for Real-Time Object Detection with YOLOv8 + OpenCV
+
+# YOLOv8 — includes torch, torchvision, and the ultralytics framework
+ultralytics>=8.0.0
+
+# OpenCV — webcam capture, image I/O, and drawing utilities
+opencv-python>=4.8.0
+
+# NumPy — array operations (usually installed as a transitive dep, listed explicitly)
+numpy>=1.24.0
